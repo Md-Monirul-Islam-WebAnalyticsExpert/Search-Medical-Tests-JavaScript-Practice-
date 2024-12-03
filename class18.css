@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    background-color: lightblue;
+    border-style: none;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+
+hr {
+    height: 1.2px;
+    background-color: gray;
+}
+
+.personalDetails p {
+    line-height: 50px;
+}
+
+.personalDetails input {
+    width: 300px;
+    height: 30px;
+}
+ 
+.detailResume h3 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+select#dropdown-test-list {
+    width: 250px;
+    height: 35px;
+    border-radius: 6px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    background-color: #dfeef5;
+}
+
+.selected-medical-tests {
+    width: 420px;
+    height: 250px;
+    background-color: #dfeef5;
+    padding: 20px;
+    border-radius: 6px;
+    font-family: 'Poppins';
+    font-size: 18px;
+}
+
+.selected-medical-tests p {
+    padding: 10px;
+}
+
+
+
